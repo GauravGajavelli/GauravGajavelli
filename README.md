@@ -5,5 +5,5 @@
 🔭 I’m working on web apps for students with dietary restrictions and a more resilient YouTube playlist<br><br>
 🌱 I’m currently learning AWS, NoSQL, and React.js<br><br>
 📫 How to reach me:<br><br>
-Gmail: gauravgajavelli02@gmail.com<br><br>
-Linkedin: https://www.linkedin.com/in/gaurav-gajavelli/
+Gmail: gajavegs@gmail.com<br><br>
+Linkedin: https://www.linkedin.com/in/gajavegs/
