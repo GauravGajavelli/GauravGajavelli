@@ -6,5 +6,5 @@
 🌱 I’m currently preparing for the AWS Solutions Architect Associate Certification and am learning how to use NoSQL databases, WebSockets, and Vue.js<br><br>
 📫 How to reach me:<br><br>
 
-Gmail: gaurav@gajavelli.com<br><br>
+Email: gaurav@gajavelli.com<br><br>
 Linkedin: https://www.linkedin.com/in/gajavegs/
