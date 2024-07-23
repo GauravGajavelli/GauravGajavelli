@@ -7,5 +7,5 @@
 📫 How to reach me:<br><br>
 
 Email: gaurav@gajavelli.com<br><br>
-Linkedin: https://www.linkedin.com/in/gajavegs/
-Portfolio: https://gauravgajavelli.netlify.app/
+Linkedin: https://www.linkedin.com/in/gajavegs/<br><br>
+Portfolio: https://gauravgajavelli.netlify.app/<br><br>
