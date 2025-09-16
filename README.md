@@ -8,4 +8,4 @@
 
 Email: gaurav@gajavelli.com<br><br>
 Linkedin: https://www.linkedin.com/in/gajavegs/<br><br>
-Portfolio: https://gauravgajavelli.netlify.app/<br><br>
+Portfolio: https://gauravgajavelli.com/<br><br>
