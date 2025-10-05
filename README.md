@@ -7,5 +7,5 @@
 📫 How to reach me:<br>
 
 Email: gajavegs@rose-hulman.edu<br><br>
-Linkedin: https://www.linkedin.com/in/gajavegs/<br><br>
-Portfolio: https://gauravgajavelli.com/<br><br>
+Linkedin: https://www.linkedin.com/in/gajavegs<br><br>
+Portfolio: https://gauravgajavelli.com<br><br>
